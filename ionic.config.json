@@ -1,0 +1,7 @@
+{
+  "name": "Photo-Gallery-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
